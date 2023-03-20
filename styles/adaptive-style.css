@@ -1,0 +1,13 @@
+@media all and(max-width:1320px) {
+  .nav_logIn {
+    width: 40%;
+  }
+}
+@media all and (max-width: 1220px) {
+  .discount__title_main_ {
+    font-size: 60px;
+  }
+  .nav__list {
+    width: 40%;
+  }
+}
